@@ -3,7 +3,7 @@
 ## sample
 
 ```js
-import { fetchOrLoad, HTMLParser, CSV, nextTag, prevTag, table2json, table2csv, sleep } from "./scrapeutil.js";
+import { fetchOrLoad, HTMLParser, CSV, nextTag, prevTag, table2json, table2csv, sleep } from "https://code4fukui.github.io/scrapeutil/scrapeutil.js";
 
 const fn = "q-league-index.csv";
 const url = "https://q-league.net/div/";
